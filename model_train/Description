@@ -1,0 +1,1 @@
+This is the result of the training model. The background feature used for CCA calculation in the model comes from the multiple signatures decomposed by 462 whole genome samples. The results of model training and biomarkers are stored in the train1.rf.RData file.
