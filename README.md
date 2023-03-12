@@ -10,3 +10,6 @@ Mutation data source:
 [4] Guo Y A, Chang M M, Huang W, et al. Mutation hotspots at CTCF binding sites coupled to chromosomal instability in gastrointestinal cancers[J]. Nature communications, 2018, 9(1): 1-14.
 
 RNMF Framework and CCA model：https://github.com/zhenzhang-li/RNMF.
+
+
+![Fig  7-01](https://user-images.githubusercontent.com/78481822/224526256-b2b74378-4d63-48b9-95b6-db0d83b7a65f.png)
